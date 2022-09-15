@@ -1,3 +1,6 @@
-Meu primeiro sistemea noo git
+meu primeiro comando de verificação de alteração
 
-3 ateração sendofeita git 
+4 alteração no master
+mas uma linha 
+mas uma linha 
+mas uma linha 
