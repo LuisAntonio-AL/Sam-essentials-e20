@@ -1,5 +1,4 @@
-meu primeiro comando de verificação de alteração
+meu primeeiro git 
 
-4 alteração no master
-mas uma linha 
-mas uma linha 
+
+para um teste
