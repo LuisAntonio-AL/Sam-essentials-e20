@@ -1,13 +1,4 @@
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ttttttttttttttttttttttttttttttttttb
-u
-uuu
-uuuuuuuuuuuuuuuuuuujhjg
-fgh
-d
-g
-d
-fgdz
-hg
-hfs
-fg
+meu primeeiro git 
+
+
+para um teste
